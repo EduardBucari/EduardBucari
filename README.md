@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![NDG LinuxEssentials](https://github.com/EduardBucari/EduardBucari/assets/53411489/f2e7fbaa-e737-4c11-8419-8e496acfc06c)
 
 -----------------------------
-STEP IT DIPLOMA
+STEP IT Academy DIPLOMA
 
 ![StepIT1](https://github.com/EduardBucari/EduardBucari/assets/53411489/4285c7a8-fc4e-4d00-81e0-3e0518864d95)
 ![StepIT2](https://github.com/EduardBucari/EduardBucari/assets/53411489/3304b2f9-d237-4aa9-a6c1-f96da67f51b4)
