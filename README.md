@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @EduardBucari.
-- 👀 I’m interested in OC Linux, programing and Сybersecurity.
-- 🌱 I’m currently I am studying in Faculty of Computers, Informatics and Microelectronics 
-- in Technical University of Moldova (Master degree).
-- 💞️ I’m looking to collaborate with Сybersecurity company in Moldova
-- 📫 How to reach me: eduard.bucari@isa.utm.md
-
 MY SERTIFICATES:
 
 <!---
